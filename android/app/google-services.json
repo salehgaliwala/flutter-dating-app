@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645646970495",
+    "project_id": "seting-fdb1c",
+    "storage_bucket": "seting-fdb1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645646970495:android:090ce4b8114d3c4d6f594a",
+        "android_client_info": {
+          "package_name": "com.savage.seven.seting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645646970495-5r8ui57cmd0tolkmv47bss2mi93ugrt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONJJraiLmctUBpIXv8_JJXpTfOw62Yxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645646970495-5r8ui57cmd0tolkmv47bss2mi93ugrt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
